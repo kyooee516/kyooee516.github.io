@@ -3,7 +3,7 @@ title: Writing a New Post
 author: Cotes Chung
 date: 2019-08-08 14:10:00 +0800
 categories: [Blogging, Tutorial]
-tags: [writing]
+tags: [demo]
 ---
 
 ## Naming and Path
@@ -53,7 +53,7 @@ Then we should have two *category* type pages placed in folder `categories` of r
 │   └── bee.html            # a tag type page
 ...
 ```
-    
+
 and the content of a *category* type page is
 
 ```yaml

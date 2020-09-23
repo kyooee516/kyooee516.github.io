@@ -3,7 +3,7 @@ title: Customize the Favicon
 author: Cotes Chung
 date: 2019-08-11 00:34:00 +0800
 categories: [Blogging, Tutorial]
-tags: [favicon]
+tags: [demo]
 toc: false
 ---
 
@@ -21,7 +21,7 @@ Download the generated package, unzip and delete the following two from the extr
 
 - browserconfig.xml
 - manifest.json
- 
+
 Now, copy the rest image files (`.PNG` and `.ICO`) to cover the original one in folder `assets/img/favicons/`.
 
 Lastly, don't forget to rebuild your site so that the icon becomes your custom edition.
