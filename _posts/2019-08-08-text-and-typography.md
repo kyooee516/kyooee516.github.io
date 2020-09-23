@@ -3,7 +3,7 @@ title: Text and Typography
 author: Cotes Chung
 date: 2019-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
-tags: [demo]
+tags: [typography]
 math: true
 image: /assets/img/sample/devices-mockup.png
 ---
