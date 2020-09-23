@@ -18,14 +18,14 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'kyooee516.github.io'
+url: 'https://kyooee516.github.io/'
 
 author: Kyoo Ee                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: kyooee516             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -78,7 +78,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: light
+theme_mode: dual
 
 # boolean type, global switch for ToC in posts.
 toc: true
